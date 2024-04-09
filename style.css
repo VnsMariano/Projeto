@@ -38,7 +38,8 @@ body *{
 } 
 
 #container{
-  width: 360px;
+  max-width: 588px;
+  width: 100%;
   margin: 56px auto 0px;
   padding: 0 2px;
   /*Inves de usar o margin-left/right, vc pode usar somente margin: auto; para deixar centralizado. */
