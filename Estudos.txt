@@ -1,0 +1,20 @@
+Estudos- Discorver
+
+
+Aplicativo para utilização- Figma, Git, github e Fronteditor.dev- Editor de codigos Online.
+Planejamento - Tenho objetivo de concluir todo o curso e enseguida estudar para ser fullstack e praticar tudo.
+Se questionar sobre o conteudo que eu estou vendo e ter duvidas, pesquisar.
+
+<H> - TITULO
+<P> Texto
+<a href=> Link
+<img src="> imagem
+<ul> - Lista
+
+Depois aprender Wordpress, BootStrap, Lavarel e TypeScript
+
+list-style: none; - Remover estilo Lista
+Tag a css inline
+Remover Estilos HTML - text-decoration: none
+DevTools - Conjuntos de ferramentas de desenvolvimento integrados no navegador para depuração
+CSS - Os pseudosseletores são uma forma de selecionar elementos HTML com base em seu estado ou posição em relação a outros elementos
