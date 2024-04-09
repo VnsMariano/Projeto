@@ -84,8 +84,7 @@ body *{
 }
 
 .light #switch button{
-  right: 0;
-  left: initial;
+  animation: slide-in 0.4s;
 }
 
 #switch span{
@@ -166,4 +165,15 @@ footer{
   padding: 24px 0;
   font-size: 12px;
   text-align: center;
+}
+
+/*Animação*/
+
+@keyframes slide-in{
+  from{
+    left: 0%
+  }
+  to{
+    left: 50%;
+  }
 }
